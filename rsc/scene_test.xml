@@ -1,0 +1,5 @@
+<ObjectPool name="scenes">
+    <Scene name="main_menu">
+            <Button name="play_game" handler="load_scene" target="game" img="button1_hover" hover="button1_hover" triggered="button1_trigger" align="center" y="500" x="50" width="300" height="150"/>
+    </Scene>
+</ObjectPool>

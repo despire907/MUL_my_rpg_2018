@@ -1,0 +1,9 @@
+<ObjectPool name="WeaponMelee">
+    <Weapon_melee name="Spear" texture="spear.png" damage="20"/>
+</ObjectPool>
+<ObjectPool name="WeaponRange">
+    <Weapon_range name="Bow" texture="bow.png" range="5" projectile="NormalArrow"/>
+</ObjectPool>
+<ObjectPool name="Projectiles">
+    <Projectile name="NormalArrow" texture="normal_arrow.png" mov_speed="20" damage="15"/>
+</ObjectPool>

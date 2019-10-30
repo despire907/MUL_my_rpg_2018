@@ -1,0 +1,17 @@
+<ObjectPool name="scenes">
+    <Scene name="main_menu">
+        <Panel name="test" x="10%" y="130" width="80%" height="400" bg_img="" type="visible">
+            <Button name="play_game" handler="load_scene" target="game" img="button1" hover="button1_hover" align="center" y="10%"/>
+            <Button name="game_settings" handler="panel_replace" target="settings" img="button1" hover="button1_hover" align="center" y="20%"/>
+            <Button name="credits" handler="start_browser" target="https://my_defender.epitech.eu" img="button1" hover="button1_hover" align="center" y="30%"/>
+            <Button name="exit" handler="load_scene" target="end" img="button1" hover="button1_hover" align="center"/>
+        </Panel>
+        <Panel name="settings" type="hiden">
+            <Button name="graphics" handler="load_scene" target="game" img="button1" hover="button1_hover" align="center"/>
+        </Panel>
+    </Scene>
+    <Scene name="game">
+        <Panel name="test" x="40" y="130" width="300" height="400" bg_img="">
+        </Panel>
+    </Scene>
+</ObjectPool>

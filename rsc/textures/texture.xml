@@ -1,0 +1,9 @@
+<ObjectPool name="TexturesUtils">
+    <Texture name="error.jpg" path="rsc/textures/error.jpg"/>
+    <Texture name="loading.jpg" path="rsc/textures/loading.jpg"/>
+</ObjectPool>
+<ObjectPool name="TexturesHud">
+    <Texture name="button1" path="rsc/hud/button_start.png"/>
+    <Texture name="button1_hover" path="rsc/hud/button_start_hover.png"/>
+    <Texture name="button1_trigger" path="rsc/hud/button_start_press.png"/>
+</ObjectPool>

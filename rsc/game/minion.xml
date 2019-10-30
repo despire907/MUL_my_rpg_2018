@@ -1,0 +1,4 @@
+<ObjectPool name="Minions">
+        <Minion name="Goblin" texture="goblin.png" hp="100" mov_speed="10" atk_speed="5" weapon="Spear"/>
+        <Minion name="Archer" texture="archer.png" hp="50" mov_speed="5" atk_speed="4" weapon="Bow"/>
+</ObjectPool>

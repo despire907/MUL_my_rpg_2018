@@ -1,0 +1,3 @@
+<ObjectPool name="Buttons">
+    <Button name="test0" texture="error.jpg" hovered="loading.jpg"/>
+</ObjectPool>

@@ -1,0 +1,2 @@
+<Root type="Texture" name="Texture" path="rsc/textures/texture.xml"/>
+<Root type="Scene" name="Scene" path="rsc/scene_test.xml"/>

@@ -1,0 +1,14 @@
+<Map>
+    <MapSet name="desert">
+        <MapRoom name="desert1" path="rsc/map/desert/desert1.map"/>
+        <MapRoom name="desert2" path="rsc/map/desert/desert2.map"/>
+        <MapRoom name="desert3" path="rsc/map/desert/desert3.map"/>
+        <MapRoom name="desert4" path="rsc/map/desert/desert4.map"/>
+    </MapSet>
+    <MapSet name="forest">
+        <MapRoom name="forest1" path="rsc/map/forest/forest1.map"/>
+        <MapRoom name="forest2" path="rsc/map/forest/forest2.map"/>
+        <MapRoom name="forest3" path="rsc/map/forest/forest3.map"/>
+        <MapRoom name="forest4" path="rsc/map/forest/forest4.map"/>
+    </MapSet>
+</Map>

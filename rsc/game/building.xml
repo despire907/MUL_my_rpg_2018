@@ -1,0 +1,13 @@
+<ObjectPool name="Towers">
+    <Tower name="FireTower0" type="fire" texture="fire_tower_0.png" hp="3000" atk_speed="10" projectile="Fireball0"/>
+    <Tower name="FireTower1" type="fire" texture="fire_tower_1.png" hp="6000" atk_speed="20" projectile="Fireball1"/>
+    <Tower name="FireTower2" type="fire" texture="fire_tower_2.png" hp="10000" atk_speed="30" projectile="Fireball2"/>
+    <Tower name="IceTower0" type="ice" texture="ice_tower_0.png" hp="1500" atk_speed="-1" projectile="Icebeam0"/>
+    <Tower name="IceTower1" type="ice" texture="ice_tower_1.png" hp="3000" atk_speed="-1" projectile="Icebeam1"/>
+    <Tower name="IceTower2" type="ice" texture="ice_tower_2.png" hp="7000" atk_speed="-1" projectile="Icebeam2"/>
+</ObjectPool>
+<ObjectPool name="Walls">
+    <Wall name="Wall0" texture="wall_0.png" hp="10000"/>
+    <Wall name="Wall1" texture="wall_1.png" hp="20000"/>
+    <Wall name="Wall2" texture="wall_2.png" hp="30000"/>
+</ObjectPool>
